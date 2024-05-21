@@ -1,0 +1,15 @@
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\PluginA\bin\Debug\net8.0\PluginA.deps.json
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\PluginA\bin\Debug\net8.0\PluginA.dll
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\PluginA\bin\Debug\net8.0\PluginA.pdb
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\PluginA\bin\Debug\net8.0\SharedContract.dll
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\PluginA\bin\Debug\net8.0\SharedContract.pdb
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\PluginA\obj\Debug\net8.0\PluginA.csproj.AssemblyReference.cache
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\PluginA\obj\Debug\net8.0\PluginA.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\PluginA\obj\Debug\net8.0\PluginA.AssemblyInfoInputs.cache
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\PluginA\obj\Debug\net8.0\PluginA.AssemblyInfo.cs
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\PluginA\obj\Debug\net8.0\PluginA.csproj.CoreCompileInputs.cache
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\PluginA\obj\Debug\net8.0\PluginA.csproj.Up2Date
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\PluginA\obj\Debug\net8.0\PluginA.dll
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\PluginA\obj\Debug\net8.0\refint\PluginA.dll
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\PluginA\obj\Debug\net8.0\PluginA.pdb
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\PluginA\obj\Debug\net8.0\ref\PluginA.dll

@@ -1,0 +1,11 @@
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\SharedContract\bin\Debug\net8.0\SharedContract.deps.json
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\SharedContract\bin\Debug\net8.0\SharedContract.dll
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\SharedContract\bin\Debug\net8.0\SharedContract.pdb
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\SharedContract\obj\Debug\net8.0\SharedContract.GeneratedMSBuildEditorConfig.editorconfig
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\SharedContract\obj\Debug\net8.0\SharedContract.AssemblyInfoInputs.cache
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\SharedContract\obj\Debug\net8.0\SharedContract.AssemblyInfo.cs
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\SharedContract\obj\Debug\net8.0\SharedContract.csproj.CoreCompileInputs.cache
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\SharedContract\obj\Debug\net8.0\SharedContract.dll
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\SharedContract\obj\Debug\net8.0\refint\SharedContract.dll
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\SharedContract\obj\Debug\net8.0\SharedContract.pdb
+E:\NET-Course\Plugin-NET-Core\PluginsSystem\SharedContract\obj\Debug\net8.0\ref\SharedContract.dll
